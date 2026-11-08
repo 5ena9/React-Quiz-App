@@ -20,11 +20,11 @@ html {
 body {
     margin: 0;
     padding: 2rem;
-    background: rgb(252, 244, 214);
+    background: rgb(228, 234, 255);
     background: linear-gradient(90deg,
-            rgb(236, 229, 200) 0%,
-            rgb(242, 234, 202) 48%,
-            rgb(245, 236, 207) 100%);
+            rgb(200, 233, 236) 0%,
+            rgb(206, 222, 240) 48%,
+            rgb(220, 236, 246) 100%);
 }
 
 .header {
