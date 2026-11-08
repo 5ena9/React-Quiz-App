@@ -8,7 +8,7 @@ export default function Header() {
         src={suppliesLogo}
         alt="Supplies logo"
       />
-      <h1 className="header text-3xl">React Quiz</h1>
+      <h1 className="header text-3xl">React My Quiz</h1>
     </header>
   );
 }
